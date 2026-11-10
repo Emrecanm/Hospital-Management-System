@@ -1,0 +1,16 @@
+C:\Users\emrec\OneDrive\Masaüstü\Hastane Otomasyonu\GörselProgramlamaFinaleHazirlik\GörselProgramlamaFinaleHazirlik\bin\Debug\net8.0-windows\GörselProgramlamaFinaleHazirlik.exe
+C:\Users\emrec\OneDrive\Masaüstü\Hastane Otomasyonu\GörselProgramlamaFinaleHazirlik\GörselProgramlamaFinaleHazirlik\bin\Debug\net8.0-windows\GörselProgramlamaFinaleHazirlik.deps.json
+C:\Users\emrec\OneDrive\Masaüstü\Hastane Otomasyonu\GörselProgramlamaFinaleHazirlik\GörselProgramlamaFinaleHazirlik\bin\Debug\net8.0-windows\GörselProgramlamaFinaleHazirlik.runtimeconfig.json
+C:\Users\emrec\OneDrive\Masaüstü\Hastane Otomasyonu\GörselProgramlamaFinaleHazirlik\GörselProgramlamaFinaleHazirlik\bin\Debug\net8.0-windows\GörselProgramlamaFinaleHazirlik.dll
+C:\Users\emrec\OneDrive\Masaüstü\Hastane Otomasyonu\GörselProgramlamaFinaleHazirlik\GörselProgramlamaFinaleHazirlik\bin\Debug\net8.0-windows\GörselProgramlamaFinaleHazirlik.pdb
+C:\Users\emrec\OneDrive\Masaüstü\Hastane Otomasyonu\GörselProgramlamaFinaleHazirlik\GörselProgramlamaFinaleHazirlik\obj\Debug\net8.0-windows\GörselProgramlamaFinaleHazirlik.Form1.resources
+C:\Users\emrec\OneDrive\Masaüstü\Hastane Otomasyonu\GörselProgramlamaFinaleHazirlik\GörselProgramlamaFinaleHazirlik\obj\Debug\net8.0-windows\GörselProgramlamaFinaleHazirlik.csproj.GenerateResource.cache
+C:\Users\emrec\OneDrive\Masaüstü\Hastane Otomasyonu\GörselProgramlamaFinaleHazirlik\GörselProgramlamaFinaleHazirlik\obj\Debug\net8.0-windows\GörselProgramlamaFinaleHazirlik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrec\OneDrive\Masaüstü\Hastane Otomasyonu\GörselProgramlamaFinaleHazirlik\GörselProgramlamaFinaleHazirlik\obj\Debug\net8.0-windows\GörselProgramlamaFinaleHazirlik.AssemblyInfoInputs.cache
+C:\Users\emrec\OneDrive\Masaüstü\Hastane Otomasyonu\GörselProgramlamaFinaleHazirlik\GörselProgramlamaFinaleHazirlik\obj\Debug\net8.0-windows\GörselProgramlamaFinaleHazirlik.AssemblyInfo.cs
+C:\Users\emrec\OneDrive\Masaüstü\Hastane Otomasyonu\GörselProgramlamaFinaleHazirlik\GörselProgramlamaFinaleHazirlik\obj\Debug\net8.0-windows\GörselProgramlamaFinaleHazirlik.csproj.CoreCompileInputs.cache
+C:\Users\emrec\OneDrive\Masaüstü\Hastane Otomasyonu\GörselProgramlamaFinaleHazirlik\GörselProgramlamaFinaleHazirlik\obj\Debug\net8.0-windows\GörselProgramlamaFinaleHazirlik.dll
+C:\Users\emrec\OneDrive\Masaüstü\Hastane Otomasyonu\GörselProgramlamaFinaleHazirlik\GörselProgramlamaFinaleHazirlik\obj\Debug\net8.0-windows\refint\GörselProgramlamaFinaleHazirlik.dll
+C:\Users\emrec\OneDrive\Masaüstü\Hastane Otomasyonu\GörselProgramlamaFinaleHazirlik\GörselProgramlamaFinaleHazirlik\obj\Debug\net8.0-windows\GörselProgramlamaFinaleHazirlik.pdb
+C:\Users\emrec\OneDrive\Masaüstü\Hastane Otomasyonu\GörselProgramlamaFinaleHazirlik\GörselProgramlamaFinaleHazirlik\obj\Debug\net8.0-windows\GörselProgramlamaFinaleHazirlik.genruntimeconfig.cache
+C:\Users\emrec\OneDrive\Masaüstü\Hastane Otomasyonu\GörselProgramlamaFinaleHazirlik\GörselProgramlamaFinaleHazirlik\obj\Debug\net8.0-windows\ref\GörselProgramlamaFinaleHazirlik.dll

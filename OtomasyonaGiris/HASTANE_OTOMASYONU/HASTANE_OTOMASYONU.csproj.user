@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminDoktorlarEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminGirisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminHastalarEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminHemsirelerEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminPoliklinikEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminRandevuEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoktorEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoktorGirisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EkleVeyaGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HastaEkleVeyaGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HastaEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HastaGirisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HastaKayitEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HastaneyeGoreDoktorSayisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HastaneyeGorePoliklinikSayilari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HastaRandevuAl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HemsireEkleVEyaGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OtomasyonaGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PoliklinikEkleVeyaGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SilinenRandevular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Silinen_EklenenHastalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TedaviEdilmisHastalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,20 @@
+EMRECAN DÜZNELİ
+210757060
+
+
+Projeyi sql de çalıştırmak için öncelikle paylaştığım Databases i cihazınıza yüklemeniz gerekmektedir.
+C# da projeye SQL veritabanını bağlamak için C# dan bağlantı kurmanız yeterli olacaktır bütün serverlerda çalışması için 
+(Data Source=.;Initial Catalog=HASTANE_OTOMASYONU;Integrated Security=True) yanda görüldüğü gibi '.' işareti koyarak kullanıcı adına falan gerek kalmamaktadır.
+
+
+Admin Girişi için:
+>>>Kullanıcı Adı = emrecandznli	
+>>>Şifre = 1907
+
+Doktor Girişi İçin:
+>>>Kullanıcı Adı = mtygnoglu
+>>>Şifre = 2525
+
+Hasta Girişi İçin:
+>>>Kullanıcı Adı = karsukbayir
+>>>Şifre = 1014
